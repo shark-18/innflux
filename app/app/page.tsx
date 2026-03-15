@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
 import {
-  Wallet, Bank, ArrowRight, Check, AlertCircle, TrendingUp,
+  Wallet, Landmark as Bank, ArrowRight, Check, AlertCircle, TrendingUp,
   Lock, Eye, EyeOff, Zap, Shield, DollarSign, Clock, Target
 } from 'lucide-react';
 import { RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar, Legend, ResponsiveContainer } from 'recharts';
